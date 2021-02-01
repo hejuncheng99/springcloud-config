@@ -1,1 +1,2 @@
-学习SpringCloud-config配置中心
+学习SpringCloud-Config
+通过GitHub作为配置中心中转，通过SpringCloud-Config-Server来拉取配置
